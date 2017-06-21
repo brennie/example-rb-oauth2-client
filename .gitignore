@@ -1,0 +1,7 @@
+*.egg-info/
+build/
+dist/
+htdocs/
+*.py[co]
+db.sqlite3
+settings_local.py
